@@ -1,6 +1,10 @@
 # Agrupador lógico
-## Requerimientos
 ## Instalación
+- _**Paso #1:**_ Descarga el `.zip`.
+- _**Paso #2:**_ Extrae la carpeta principal del proyecto.
+- _**Paso #3:**_ Ingresa a la carpeta `src`.
+- _**Paso #4:**_ Ingresa a la carpeta `dist`.
+- _**Paso #5:**_ Ejecuta el `.exe` llamado `agrupador_logico`.
 ## Interfaz 
 <img width="669" height="516" alt="Interfaz" src="https://github.com/user-attachments/assets/3caad84a-3e0d-40cb-9c06-c9a054a61bfe" />
 
