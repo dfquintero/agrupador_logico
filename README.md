@@ -58,3 +58,6 @@ Esto permite pegar la expresión facilmente, mostrándose de la siguiente forma:
 
 https://youtu.be/Lu3jEutbmoo
 [![](https://markdown-videos.deta.dev/youtube/Lu3jEutbmoo)](https://youtu.be/Lu3jEutbmoo)
+
+[![Título del vídeo](https://img.youtube.com/vi/Lu3jEutbmoo/0.jpg)](https://www.youtube.com/watch?v=Lu3jEutbmoo)
+
