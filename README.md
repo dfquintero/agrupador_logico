@@ -5,6 +5,7 @@
 <img width="341" height="92" alt="Releases" src="https://github.com/user-attachments/assets/6aa733e8-6d07-4c5b-b79d-052e0eabb0f6" />
   
 - _**Paso #2:**_ Descarga el archivo `agrupador_logico.exe`.
+- _**Paso #3:**_ Ejecuta el archivo `agrupador_logico.exe`.
 
 ## Interfaz 
 <img width="669" height="516" alt="Interfaz" src="https://github.com/user-attachments/assets/3caad84a-3e0d-40cb-9c06-c9a054a61bfe" />
