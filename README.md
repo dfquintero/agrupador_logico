@@ -1,7 +1,9 @@
 # Agrupador lógico
 ## Nombres
 -_**Quintero Gómez Diego Fernando**_
+
 -_**Hernández Ortegón Joan Nicolás**_
+
 -_**Castro Castillo Juan David**_
 ## Instalación
 - _**Paso #1:**_ Ve a la sección `Releases`.
