@@ -55,3 +55,5 @@ Esto permite pegar la expresión facilmente, mostrándose de la siguiente forma:
 
 
 ## Video
+
+https://youtu.be/Lu3jEutbmoo
