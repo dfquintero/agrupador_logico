@@ -51,7 +51,7 @@ def agrupar_con_pasos(tokens):
                         if i + count < len(expr):
                             sub = expr[i + count]
                             for _ in range(count):
-                                sub = f"(¬{sub})"
+                                sub = f"(¬({sub}))"
                             expr[i:i + count + 1] = [sub]
                             pasos.append((f"{'¬'*count} aplicado → {sub}", sub))
                             i = max(i - 1, 0)
