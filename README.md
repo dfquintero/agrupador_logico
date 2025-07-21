@@ -1,6 +1,18 @@
 # Agrupador lógico
-## Requerimientos
+## Nombres
+-_**Quintero Gómez Diego Fernando**_
+
+-_**Hernández Ortegón Joan Nicolás**_
+
+-_**Castro Castillo Juan David**_
 ## Instalación
+- _**Paso #1:**_ Ve a la sección `Releases`.
+
+<img width="341" height="92" alt="Releases" src="https://github.com/user-attachments/assets/6aa733e8-6d07-4c5b-b79d-052e0eabb0f6" />
+  
+- _**Paso #2:**_ Descarga el archivo `agrupador_logico.exe`.
+- _**Paso #3:**_ Ejecuta el archivo `agrupador_logico.exe`.
+
 ## Interfaz 
 <img width="669" height="516" alt="Interfaz" src="https://github.com/user-attachments/assets/3caad84a-3e0d-40cb-9c06-c9a054a61bfe" />
 
@@ -43,3 +55,9 @@ Esto permite pegar la expresión facilmente, mostrándose de la siguiente forma:
 
 
 ## Video
+
+https://youtu.be/Lu3jEutbmoo
+[![](https://markdown-videos.deta.dev/youtube/Lu3jEutbmoo)](https://youtu.be/Lu3jEutbmoo)
+
+[![Título del vídeo](https://img.youtube.com/vi/Lu3jEutbmoo/0.jpg)](https://www.youtube.com/watch?v=Lu3jEutbmoo)
+
