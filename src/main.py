@@ -50,8 +50,11 @@ def agrupar_con_pasos(tokens):
                             count += 1
                         if i + count < len(expr):
                             sub = expr[i + count]
+                            # Si el operando ya está agrupado, no agregamos paréntesis extra
+                            if not sub.startswith('(') or not sub.endswith(')'):
+                                sub = f"({sub})"
                             for _ in range(count):
-                                sub = f"(¬({sub}))"
+                                sub = f"(¬{sub})"
                             expr[i:i + count + 1] = [sub]
                             pasos.append((f"{'¬'*count} aplicado → {sub}", sub))
                             i = max(i - 1, 0)
